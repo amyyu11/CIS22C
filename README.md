@@ -1,2 +1,2 @@
 # CIS22C
-CIS22C Data Structures Summer 2019
+Projects from CIS22C Data Structures taken at De Anza in Summer 2019.
